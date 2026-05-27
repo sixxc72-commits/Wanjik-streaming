@@ -1,0 +1,15 @@
+{
+  "name": "WajikStream",
+  "short_name": "WajikStream",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3233/3233215.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
